@@ -52,7 +52,7 @@ function isLetter(char) {
     case "e": case "E": case "f": case "F":
     case "g": case "G": case "h": case "H":
     case "i": case "I": case "j": case "J":
-    case "k"; case "K": case "l": case "L":
+    case "k": case "K": case "l": case "L":
     case "m": case "M": case "n": case "N":
     case "o": case "O": case "p": case "P":
     case "q": case "Q": case "r": case "R":
